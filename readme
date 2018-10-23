@@ -1,0 +1,6 @@
+1.javascript function文件夹
+  该文件夹中都是一些常用的js工具函数。
+  1.1 DateFormat.js 
+     该文件中的DateFormat函数，是一个日期格式化函数，函数原型为：DateFormat(date,pattern)。
+     第一个参数为日期，第二个参数为匹配的日期格式
+     使用示例：DateFormat(new Date(),'yyyy-MM-dd HH-mm-ss.l'); 的结果是如：2018-10-23 20:38:27.520
